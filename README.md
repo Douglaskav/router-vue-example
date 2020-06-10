@@ -5,10 +5,6 @@ Example of using the Vue Router
 
 Vue Router is the official router for Vue.js. It deeply integrates with Vue.js core to make building Single Page Applications with Vue.js a breeze.
 
-## Screenshot
-
-![Print Screen](Wireframe.png);
-
 ### Project setup
 
 ```
